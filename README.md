@@ -1,5 +1,5 @@
 # Freecad Classic colors
-Optimized version of the ProLight preference pack. Based on VertUI and ProLight.
+Classic theme with a modern touch.
 
 ## Installation
 See https://github.com/MisterMakerNL/ExtremeProLight/blob/main/INSTALL.md
