@@ -1,7 +1,5 @@
-# ExtremeProLight
-Optimized version of the ProLight preference pack. Based on VertUI and ProLight.
-
-![afbeelding](https://github.com/MisterMakerNL/ExtremeProLight/blob/main/resources/icons/ExtremeProLight_200x200.png)
+# Freecad Classic colors
+Classic theme with a modern touch.
 
 ## Installation
 See https://github.com/MisterMakerNL/ExtremeProLight/blob/main/INSTALL.md
@@ -15,9 +13,8 @@ Feel free to discuss this theme and addon on https://forum.freecadweb.org/viewto
 ## Screenshots
 
 Right Click/View Image too see in 4K
-![afbeelding](https://user-images.githubusercontent.com/29804962/194640835-0a110242-5b67-489c-bdd1-dcc18c4512be.png)
+![afbeelding](https://user-images.githubusercontent.com/29804962/199094248-878b376d-f9d0-4b29-a5ee-30a0524b3a25.png)
+
 
 ## License
-
-Follow source materials:
-https://github.com/StudioPetrikas/FreeCADLink_VertUI and https://github.com/turn211/ProLightThemePreferencePack
+GPLv3
